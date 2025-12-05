@@ -36,3 +36,4 @@ class TeamForm(forms.ModelForm):
             'chevron': 'Шеврон',
             'description': 'Описание',
         } 
+
